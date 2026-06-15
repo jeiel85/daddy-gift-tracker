@@ -1,5 +1,7 @@
 *.iml
 .gradle
+.gradle-isolated/
+.gradle-isolated-jdk17/
 .kotlin
 /local.properties
 /.idea/caches
@@ -16,3 +18,4 @@
 local.properties
 .env
 debug.keystore
+.keystore/
