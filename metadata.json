@@ -1,0 +1,6 @@
+{
+  "name": "경조사 인맥 관리",
+  "description": "40~50대 아빠를 위한 경조사비 및 인맥 현황 관리 장부",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
